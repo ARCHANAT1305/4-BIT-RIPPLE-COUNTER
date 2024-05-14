@@ -103,5 +103,5 @@ endmodule
 **TIMING DIGRAMS FOR 4 Bit Ripple Counter**
 ![bitripple waveform](https://github.com/ARCHANAT1305/4-BIT-RIPPLE-COUNTER/assets/145975189/4db60c27-e213-4670-9e8a-151fdbef205b)
 
-**RESULTS**
+**RESULTS**    
 Thus the program executed succesfully.
